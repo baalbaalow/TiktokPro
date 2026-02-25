@@ -2,6 +2,8 @@
 
 Quick start — tested on Windows 10/11
 
+![CI](https://github.com/baalbaalow/TiktokPro/actions/workflows/ci.yml/badge.svg)
+
 Prerequisites:
 - Python 3.11+ (recommended)
 - Node.js (for frontend) — `npm install` already used
