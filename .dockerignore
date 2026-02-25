@@ -1,0 +1,16 @@
+venv
+.venv
+__pycache__
+outputs
+dist
+node_modules
+.git
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.mp4
+*.mp3
+*.wav

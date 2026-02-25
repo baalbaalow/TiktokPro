@@ -1,0 +1,6 @@
+yt-dlp
+openai-whisper
+moviepy
+pydub
+edge-tts
+gradio
