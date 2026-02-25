@@ -3,6 +3,8 @@
 Quick start — tested on Windows 10/11
 
 ![CI](https://github.com/baalbaalow/TiktokPro/actions/workflows/ci.yml/badge.svg)
+![Pages](https://github.com/baalbaalow/TiktokPro/actions/workflows/pages.yml/badge.svg)
+![GHCR](https://github.com/baalbaalow/TiktokPro/actions/workflows/docker-publish.yml/badge.svg)
 
 Prerequisites:
 - Python 3.11+ (recommended)
